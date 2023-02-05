@@ -21,7 +21,7 @@ Go to the project directory
 Setup OpenAI Key
 
 ```bash
-    inside the main.go file, set the OPENAI_KEY variable to your OpenAI API key
+  inside the main.go file, set the OPENAI_KEY variable to your OpenAI API key
 ```
 
 
